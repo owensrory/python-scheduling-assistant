@@ -11,3 +11,4 @@ The plan for the first iteration is purely to make sure the logic is solid. I wi
 I will then concantenate the lists and remove duplicates to elimate times when meetings cant be scheduled.
 
 This is as **basic** as I want to keep **version 1** as I dont want things to start spiraling early doors.
+
