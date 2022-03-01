@@ -12,3 +12,8 @@ I will then concantenate the lists and remove duplicates to elimate times when m
 
 This is as **basic** as I want to keep **version 1** as I dont want things to start spiraling early doors.
 
+## Version 2
+
+The plan for version 2 is to allow the user to pick one of the available times and schedule a meeting. This will then move the newly scheduled meetings time to the list of unavailable times.
+
+Still working with the same lists for now with a plan to move onto a CSV file and then potentially a calendar API.
